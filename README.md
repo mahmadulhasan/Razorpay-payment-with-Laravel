@@ -15,20 +15,19 @@ This is a simple Laravel-based mini e-commerce project featuring a **Product Vie
 
 ## 🧰 Tech Stack
 
-- **Framework:** Laravel 10+
-- **Frontend:** Blade templates + Bootstrap 5
+- **Framework:** Laravel 12
+- **Frontend:** Blade templates + Bootstrap
 - **Payment Gateway:** Razorpay Payment API
-- **Database:** MySQL (or any Laravel-supported DB)
+- **Database:** MySQL
 
 ---
 
 ## 💳 Razorpay Payment API
 
-This project integrates **Razorpay’s Payment API** to handle secure online payments. Razorpay’s checkout form is used on the payment page, allowing users to complete transactions directly.
+This project integrates **Razorpay’s Payment API** to handle secure test online payments. Razorpay’s checkout form is used on the payment page, allowing users to complete transactions directly.
 
-### Razorpay Integration Steps
 
-1. **Razorpay Checkout Script**
-   Included on the payment page using:
-   ```html
-   <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+![Screenshot (82)](https://github.com/user-attachments/assets/6c67630c-2a67-4c8c-8e04-21e23a827e73)
+![Screenshot (81)](https://github.com/user-attachments/assets/2cf7ff32-06ac-4324-80dd-2f0c2f0d93e0)
+![Screenshot (80)](https://github.com/user-attachments/assets/8b972869-f4ea-4662-9076-f6aacd5c934c)
+![Screenshot (83)](https://github.com/user-attachments/assets/b2cf18e0-f3a6-4868-97f9-b39f3338718a)
